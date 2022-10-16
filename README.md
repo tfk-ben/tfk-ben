@@ -4,8 +4,9 @@
   </p>
   
   A Junior DevOps who dedicates time to enhance and strengthen knowledge in order to apply DevOps culture and methodologies.
+  
 A short brief of what you can expect from me:
--a good knowledge of Networking and Telecommunications, thanks to my master studies and my master studies and my previous experience.
+- a good knowledge of Networking and Telecommunications, thanks to my master studies and my master studies and my previous experience.
 - Implement, manage and scale CI/CD system using Jenkins Pipeline.
 - Setup, configure and manage IT infrastructure automatically with Terraform + Ansible.
 - Work with various AWS services (VPC, CloudWatch, EC2, S3, ECS, EKS, CodeSuite ...) for building an entire application ecosystem.
