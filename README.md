@@ -2,7 +2,7 @@
 
 <p align="center">
     <h1 align="center">Hi there welcome to my profile 👋</h1>
-    <a href="https://www.linkedin.com/in/toufik-benkhelifa"><img src="https://img.shields.io/badge/linkedin-%230177B5?style=flat&logo=linkedin&logoColor=white"/></a>
+    <a align="center" href="https://www.linkedin.com/in/toufik-benkhelifa"><img src="https://img.shields.io/badge/linkedin-%230177B5?style=flat&logo=linkedin&logoColor=white"/></a>
   </p>
   
   A Junior DevOps who dedicates time to enhance and strengthen knowledge in order to apply DevOps culture and methodologies.
