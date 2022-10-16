@@ -1,4 +1,4 @@
-<img src="https://github.com/tfk-ben/tfk-ben/blob/main/devops_.png" align="center" width="90%"/>
+<img src="https://github.com/tfk-ben/tfk-ben/blob/main/devops.png" align="center" width="90%"/>
 
 <p align="center">
     <h1 align="center">Hi there welcome to my profile 👋</h1>
