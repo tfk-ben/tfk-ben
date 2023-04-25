@@ -5,7 +5,7 @@
     <a align="center" href="https://www.linkedin.com/in/toufik-benkhelifa"><img src="https://img.shields.io/badge/linkedin-%230177B5?style=flat&logo=linkedin&logoColor=white"/></a>
   </p>
   
-  A Junior DevOps who dedicates time to enhance and strengthen knowledge in order to apply DevOps culture and methodologies.
+  A Site Reliability Engineer who dedicates time to enhance and strengthen knowledge in order to apply DevOps culture and methodologies.
   
 A short brief of what you can expect from me:
 - Implement, manage and scale CI/CD system using Azure devops .
